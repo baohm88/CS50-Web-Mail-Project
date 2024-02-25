@@ -1,0 +1,19 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: rgb(234, 234, 234);
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.unread {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+p {
+    margin: 0px;
+}
